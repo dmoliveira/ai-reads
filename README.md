@@ -2,7 +2,10 @@
 
 Page to register good AI material to read later.
 
-## LLMs
+## Transformers
+
+### LLMs
+- [The Llama 3 Herd of Models](https://scontent.fbom3-2.fna.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgFAjx7y&_nc_ht=scontent.fbom3-2.fna&oh=00_AYBV76QA0hhnN6YXD4cd0_OFrJYN8AW2NBOdQp21U1zVwA&oe=66A5D24D) (92 pages)
 
 ### RAG
 - [RAG and RAU: A Survey on Retrieval-Augmented LM in NLP](https://arxiv.org/pdf/2404.19543) (arvix pdf)
