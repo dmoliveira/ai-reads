@@ -19,6 +19,9 @@ Page to register good AI material to read later.
 - [The Tome](https://huggingface.co/datasets/arcee-ai/The-Tome) (github)
 - [Fine Tome 100k](https://huggingface.co/datasets/mlabonne/FineTome-100k) (github)
 
+### Tools
+- [Unsloth Library - Llama3.1+others](https://github.com/unslothai/unsloth): Fine-tuning easily and free.
+
 ## Computer Vision
 
 ### VLMs
