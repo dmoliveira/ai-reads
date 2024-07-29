@@ -9,6 +9,7 @@ Page to register good AI material to read later.
 
 ### RAG
 - [RAG and RAU: A Survey on Retrieval-Augmented LM in NLP](https://arxiv.org/pdf/2404.19543) (arvix pdf)
+- [LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](https://tiger-ai-lab.github.io/LongRAG/) (github.io, University of Waterloo)
 
 ### Finetuning
 - [Llama 3 quantize 8bits with bitsandbytes](https://towardsdatascience.com/quantize-llama-3-8b-with-bitsandbytes-to-preserve-its-accuracy-e84283b233f7)
