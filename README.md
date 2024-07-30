@@ -14,6 +14,7 @@ Page to register good AI material to read later.
 ### Finetuning
 - [Llama 3 quantize 8bits with bitsandbytes](https://towardsdatascience.com/quantize-llama-3-8b-with-bitsandbytes-to-preserve-its-accuracy-e84283b233f7)
 - [Mistral 7B with DPO](https://mlabonne.github.io/blog/posts/Fine_tune_Mistral_7b_with_DPO.html) (notebook example)
+- [Google Research Guidelines for Finetuning](https://github.com/google-research/tuning_playbook)
 
 ### Datasets
 - [LLMs Datasets](https://github.com/mlabonne/llm-datasets) (github list)
