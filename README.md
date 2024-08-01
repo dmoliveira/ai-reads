@@ -39,6 +39,10 @@ Page to register good AI material to read later.
 ### Finetuning
 - [Moondream](https://github.com/vikhyat/moondream/blob/main/notebooks/Finetuning.ipynb) (github)
 
+  ## Conferences
+  - [ICML'24 - DeepMind Papers](https://deepmind.google/discover/events/icml-2024)
+  - [ICML'24 - Best Papers](https://medium.com/@djohraiberra/icml-2024-top-papers-whats-new-in-machine-learning-cca7f9a953e3)
+
 ## Graphs
 - [Giving a Voice to Your Graph: Representing Structured Data for LLMs](https://media.licdn.com/dms/document/media/D4E1FAQFW0D-CL3pK0w/feedshare-document-pdf-analyzed/0/1721575359199?e=1722470400&v=beta&t=vj3mITRP8IaP14ytitL8nWlNmhvo_--zjjy0dQPJ0i4) (google research, ICML'24)
 
