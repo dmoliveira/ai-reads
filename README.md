@@ -24,6 +24,9 @@ Page to register good AI material to read later.
 ### Tools
 - [Unsloth Library - Llama3.1+others](https://github.com/unslothai/unsloth): Fine-tuning easily and free.
 
+### Content Moderation
+- [ShieldGemma: Generative AI Content Moderation Based on Gemma](https://arxiv.org/abs/2407.21772) (Google LLC, 31-06-2024)
+
 ## Computer Vision
 
 ### VLMs
