@@ -29,6 +29,9 @@ Page to register good AI material to read later.
 
 ## Computer Vision
 
+### Overall News
+- 2024-08-02 [Stable Fast 3D Released](https://stability.ai/news/introducing-stable-fast-3d)
+
 ### VLMs
 - [OpenVLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) (huggingface board)
 - [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures/blob/main/README.md) (github)
