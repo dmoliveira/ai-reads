@@ -25,6 +25,7 @@ Page to register good AI material to read later.
 ### Tools
 - [Unsloth Library - Llama3.1+others](https://github.com/unslothai/unsloth): Fine-tuning easily and free.
 - 2023-10-23 [AutoGen](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/?msockid=2019cf1cab866c67269adb99aa4e6d73) is a framework for simplifying orchestration, optimisation and automation for LLM workflows.
+- 2024-07-24 LAMBDA: Multi-agent Data Analysis System [Code](https://github.com/Stephen-SMJ/LAMBDA), [Announcement](https://www.polyu.edu.hk/ama/cmfai/lambda.html), [Paper](https://arxiv.org/abs/2407.17535)
 
 ### Content Moderation
 - [ShieldGemma: Generative AI Content Moderation Based on Gemma](https://arxiv.org/abs/2407.21772) (Google LLC, 31-06-2024)
