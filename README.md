@@ -1,4 +1,4 @@
-# AI - Reads
+# AI News
 AI content generated in daily basis by [Diego Marinho](https://www.linkedin.com/in/dmztheone/).
 
 Page to register good AI material to read later.
@@ -24,6 +24,7 @@ Page to register good AI material to read later.
 
 ### Tools
 - [Unsloth Library - Llama3.1+others](https://github.com/unslothai/unsloth): Fine-tuning easily and free.
+- 2023-10-23 [AutoGen](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/?msockid=2019cf1cab866c67269adb99aa4e6d73) is a framework for simplifying orchestration, optimisation and automation for LLM workflows.
 
 ### Content Moderation
 - [ShieldGemma: Generative AI Content Moderation Based on Gemma](https://arxiv.org/abs/2407.21772) (Google LLC, 31-06-2024)
