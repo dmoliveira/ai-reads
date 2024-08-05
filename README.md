@@ -40,6 +40,7 @@ Page to register good AI material to read later.
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
 
 ## Models
+- [Flux HF](https://huggingface.co/black-forest-labs/FLUX.1-schnell), [Announcement](https://blackforestlabs.ai/announcing-black-forest-labs/)
 - [Stable Video Diffusion img2vid-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1)
 
 ### Finetuning
