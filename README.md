@@ -1,4 +1,5 @@
 # AI - Reads
+AI content generated in daily basis by [Diego Marinho](https://www.linkedin.com/in/dmztheone/).
 
 Page to register good AI material to read later.
 
