@@ -39,6 +39,9 @@ Page to register good AI material to read later.
 - [An Introduction to VLMs](https://arxiv.org/pdf/2405.17247v1) (arvix pdf)
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
 
+## Models
+- [Stable Video Diffusion img2vid-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1)
+
 ### Finetuning
 - [Moondream](https://github.com/vikhyat/moondream/blob/main/notebooks/Finetuning.ipynb) (github)
 
