@@ -49,3 +49,6 @@ Page to register good AI material to read later.
 ## Graphs
 - [Giving a Voice to Your Graph: Representing Structured Data for LLMs](https://media.licdn.com/dms/document/media/D4E1FAQFW0D-CL3pK0w/feedshare-document-pdf-analyzed/0/1721575359199?e=1722470400&v=beta&t=vj3mITRP8IaP14ytitL8nWlNmhvo_--zjjy0dQPJ0i4) (google research, ICML'24)
 
+## Libraries
+- [mem0 long contextual memory library for LLMs](https://github.com/mem0ai/mem0)
+
