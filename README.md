@@ -42,16 +42,19 @@ Page to register good AI material to read later.
 - [An Introduction to VLMs](https://arxiv.org/pdf/2405.17247v1) (arvix pdf)
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait)
 
-## Models
+### Models
 - [Flux HF](https://huggingface.co/black-forest-labs/FLUX.1-schnell), [Announcement](https://blackforestlabs.ai/announcing-black-forest-labs/),  [Flux Online](https://fal.ai/models/fal-ai/flux)
 - [Stable Video Diffusion img2vid-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1)
 
 ### Finetuning
 - [Moondream](https://github.com/vikhyat/moondream/blob/main/notebooks/Finetuning.ipynb) (github)
 
-  ## Conferences
-  - [ICML'24 - DeepMind Papers](https://deepmind.google/discover/events/icml-2024)
-  - [ICML'24 - Best Papers](https://medium.com/@djohraiberra/icml-2024-top-papers-whats-new-in-machine-learning-cca7f9a953e3)
+### TTS: Text-to-Speech
+- 2024-08-08 [Parler-TTS](https://github.com/huggingface/parler-tts), [Online](https://huggingface.co/spaces/parler-tts/parler_tts): A lightweight TTS that can generate high-qulaity, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc).
+
+## Conferences
+- [ICML'24 - DeepMind Papers](https://deepmind.google/discover/events/icml-2024)
+- [ICML'24 - Best Papers](https://medium.com/@djohraiberra/icml-2024-top-papers-whats-new-in-machine-learning-cca7f9a953e3)
 
 ## Graphs
 - [Giving a Voice to Your Graph: Representing Structured Data for LLMs](https://media.licdn.com/dms/document/media/D4E1FAQFW0D-CL3pK0w/feedshare-document-pdf-analyzed/0/1721575359199?e=1722470400&v=beta&t=vj3mITRP8IaP14ytitL8nWlNmhvo_--zjjy0dQPJ0i4) (google research, ICML'24)
