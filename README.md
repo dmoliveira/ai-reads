@@ -44,6 +44,7 @@ Page to register good AI material to read later.
 
 ### Models
 - [Flux HF](https://huggingface.co/black-forest-labs/FLUX.1-schnell), [Announcement](https://blackforestlabs.ai/announcing-black-forest-labs/),  [Flux Online](https://fal.ai/models/fal-ai/flux)
+- [Imagen 3 Paper](https://arxiv.org/abs/2408.07009) Best score of text-to-image aligment and second in visual apeal losing to Midjourney v6.
 - [Stable Video Diffusion img2vid-xt-1-1](https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1)
 
 ### Finetuning
