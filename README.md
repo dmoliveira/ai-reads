@@ -8,6 +8,9 @@ Page to register good AI material to read later.
 ### Core LLMs
 - [The Llama 3 Herd of Models](https://scontent.fbom3-2.fna.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgFAjx7y&_nc_ht=scontent.fbom3-2.fna&oh=00_AYBV76QA0hhnN6YXD4cd0_OFrJYN8AW2NBOdQp21U1zVwA&oe=66A5D24D) (92 pages)
 
+### Models
+- Microsoft Open Source [Phi 3.5 Mini](https://huggingface.co/microsoft/Phi-3.5-mini-instruct), [Phi 3.5 MoE](https://huggingface.co/microsoft/Phi-3.5-MoE-instruct), [Phi 3.5 Vision](https://huggingface.co/microsoft/Phi-3.5-vision-instruct)
+
 ### RAG
 - [RAG and RAU: A Survey on Retrieval-Augmented LM in NLP](https://arxiv.org/pdf/2404.19543) (arvix pdf)
 - [LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs](https://tiger-ai-lab.github.io/LongRAG/) (github.io, University of Waterloo)
