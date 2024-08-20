@@ -33,6 +33,7 @@ Page to register good AI material to read later.
 ## Computer Vision
 
 ### Overall News
+- 2024-08-21 [Fine-tune your GPT4o](https://openai.com/index/gpt-4o-fine-tuning/)
 - 2024-08-02 [Stable Fast 3D Released](https://stability.ai/news/introducing-stable-fast-3d)
 
 ### VLMs
